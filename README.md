@@ -58,6 +58,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/cAlvarezx/cAlvarezx/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com" alt="Snake animation" />
 
 ###
